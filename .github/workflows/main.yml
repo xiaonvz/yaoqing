@@ -1,0 +1,2 @@
+[repository]
+DEFAULT_REPO_UNITS = ...,repo.actions
